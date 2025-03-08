@@ -1,1 +1,0 @@
-# SQL-Project-Pizza-Shop-Sales-Analysis-
